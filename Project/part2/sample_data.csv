@@ -1,0 +1,6 @@
+﻿,label,text,spam,total char
+0,ham,hello! How are you?,0,19
+1,ham,Got it.,0,7
+2,spam,!!! FREE !!!,1,12
+3,ham,CSE163 is interesting.,0,22
+4,spam,TRY THIS! Http://hahaha.cse163,1,30
